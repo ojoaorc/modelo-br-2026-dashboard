@@ -18,11 +18,19 @@ Backtest 6 eleições 2002-2022: **6/6 acertos confiantes, Brier 0.097, MAE 3.1p
 
 ## Conteúdo do dashboard
 
-4 abas:
+5 abas:
 - **Main** — probabilidade marginal, cenários, stress aprovação, histórico, mercados, polls recentes
 - **Comparativo** — BR v6.3 vs BR-custom v7 (projeto LatAm), per-cenário e reconciliação com mercado
 - **Metodologia** — explicação em linguagem acessível dos 3 modelos coexistentes
+- **Whitepaper** — resumo + downloads dos papers técnico e plain-português
 - **About** — versão, fontes de dados, limitações, peer review
+
+## Whitepapers
+
+Ambos os papers acompanham o dashboard:
+
+- **[whitepaper.pdf](whitepaper.pdf)** — paper técnico (inglês, ~21 págs). Derivações formais, validação rigorosa, bibliografia. Audiência: peer review acadêmico, quants.
+- **[whitepaper_plain_pt.pdf](whitepaper_plain_pt.pdf)** — versão acessível em português (~9 págs). Sem equações, analogias, tom amigável. Audiência: analistas, jornalistas, gestores, leitor curioso.
 
 ## Características técnicas
 
